@@ -1,0 +1,16 @@
+.column {
+  box-shadow: 1px 1px 7px lightgray;
+  min-height: 500px;
+  max-height: 1000px;
+  margin: 20px !important;
+  overflow: auto;
+  border-radius: 10px;
+  min-width: 400px;
+  max-width: 500px;
+}
+.task {
+  background-color: aliceblue;
+  margin: 20px 10px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 7px lightblue;
+}
